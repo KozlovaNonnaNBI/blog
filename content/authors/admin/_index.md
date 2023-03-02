@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Козлова Нонна
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Нонна
+last_name: Козлова
 
 # Status emoji
 status:
