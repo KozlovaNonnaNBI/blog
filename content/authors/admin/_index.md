@@ -8,17 +8,17 @@ last_name: Козлова
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😈
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студентка Физ-мата
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: RUDN University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Студентка самого международного университета России, рожденная в Тверской области. В местной гимназии была круглой отличницей, однако, только до 8 класса. С отличием окончила музыкальную школу, но уже забыла все ноты. В будущем мечтаю зарабатывать много денег и путешествовать по миру.
 {style="text-align: justify;"}
