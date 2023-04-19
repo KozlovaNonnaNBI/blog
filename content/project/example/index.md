@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Лавочки с подогревом в места для курения в университетах
+summary: Каждый студент имеет право на теплый перекур
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2022-04-19T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -30,12 +30,53 @@ url_video: ''
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+**Введение**
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Давайте представим студента, который только что написал контрольную 
+работу по дискретной математике. Естественно, что он испытывает сильный 
+стресс, и первым делом бежит в место для курения. Так как перерыв между 
+парами лишь 10 минут, он не успевает взять свою верхнюю одежду в 
+гардеробе и выходит на улицу в одном свитшоте. На следующий день он 
+просыпается с больным горлом, насморком, кашлем и температурой. Далее 
+уходит на больничный, пропускает пары и следующую контрольную пишет 
+на 0 баллов. Как же можно помочь таким студентам?
+Мой проект актуален как для преподавателей и других работников 
+университетов, так и для студентов. Холод в местах для курения никак не 
+сподвигнет курящих избавится от своей пагубной привычки, однако может 
+вызвать неприятные болезни. Также, нежелание стоять на морозе способно 
+подтолкнуть учащихся к тайному курению в туалетах и других укромным 
+местах. Именно по этим причинам, по моему мнению, следует создать 
+комфортные условия в местах для курения.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+**Суть проекта**
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Я предлагаю установить специальные лавочки с подогревом, вместо 
+обычных. 
+Энергия для работы лавочек
+Их работу могут обеспечить солнечные батареи, которые будут иметь 
+способность накапливать энергию в благоприятные для этого дни. Этот 
+аспект делает мой проект эко-френдли, однако, на всякий случай, лавочки 
+следует подключить к электричеству, чтобы, даже когда длительное время 
+продолжается пасмурная погода, они могли радовать пользователей. 
+Оплата
+Покрыть часть расходов на обеспечение лавочек поможет система 
+поминутной оплаты. Человек сможет сам выбрать количество минут 
+подогрева и оплатить его с помощью банковской карты или наличных денег.
+Правила пользования
+Запрещено рисовать на лавочках и любыми другими способами их 
+портить.
+Не вставать ногами на нее.
+Не отключать провода.
+Не тушить об нее окурки и выкидывать их только в урны.
+Не садится компаниями больше четырех человек.
+Примеры использования
+Такие лавочки уже установлены во многих местах столицы, например на 
+ВДНХ и в парке Горького. Они работают на безвозмездной основе, так как 
+являются собственностью города Москвы, и уже доказали свою 
+эффективность. Жители города рады, что могут погреться в холодные 
+времена года. Также дизайнерские скамейки с подогревом установлены в 
+Архангельской области
+Заключение
+Хочется отметить, что мой проект обойдется в крупную сумму, поэтому 
+подходит только для состоятельных ВУЗов. Однако его реализация сохранит 
+здоровье и предоставит комфорт большому количеству людей.
